@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GeneradorFrases</string>
+    <string name="title_app">League of Legends</string>
+    <string name="subtitle_app">Generador de Frases LoL</string>
+    <string name="btn_nueva_frase">Generar Frase 🎲</string>
+    <string name="default_frase">"¡OK!"</string>
+    <string name="default_personaje">- Rammus 🦔</string>
+    <string name="format_frase">\"%1$s\"</string>
+    <string name="format_personaje">- %1$s %2$s</string>
+</resources>
